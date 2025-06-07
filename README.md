@@ -30,7 +30,7 @@ An intelligent Streamlit application that helps you choose the best AI framework
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/ai-framework-finder.git
+   git clone https://github.com/shkkonda/ai-framework-finder.git
    cd ai-framework-finder
    ```
 
@@ -126,7 +126,7 @@ ai-framework-finder/
 
 ```bash
 # Clone and setup
-git clone https://github.com/yourusername/ai-framework-finder.git
+git clone https://github.com/shkkonda/ai-framework-finder.git
 cd ai-framework-finder
 pip install -r requirements.txt
 
@@ -194,9 +194,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-- **Issues**: [GitHub Issues](https://github.com/yourusername/ai-framework-finder/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/ai-framework-finder/discussions)
-- **Email**: your.email@domain.com
+- **Issues**: [GitHub Issues](https://github.com/shkkonda/ai-framework-finder/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/shkkonda/ai-framework-finder/discussions)
+- **Email**: shriharsha@appweave.tech
 
 ## 🔮 Roadmap
 
